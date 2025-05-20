@@ -224,6 +224,7 @@ U,0,at_home,other,0
 U,2,services,teacher,17
 U,0,other,other,13
 U,0,teacher,services,14
+U,0,teacher,services,15
 R,16,other,other,7
 U,10,other,other,15
 U,2,services,services,12
